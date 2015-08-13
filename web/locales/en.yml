@@ -12,6 +12,7 @@ en: # <---- change this to your locale code
   Scheduled: Scheduled
   Retries: Retries
   Enqueued: Enqueued
+  NotYetEnqueued: Not yet enqueued
   Worker: Worker
   LivePoll: Live Poll
   StopPolling: Stop Polling
